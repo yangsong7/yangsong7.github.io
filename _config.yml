@@ -11,7 +11,7 @@ title                    : "Yang Song"
 title_separator          : "-"
 name                     : &name "Yang Song"
 description              : &description "Personal academic website of Yang Song"
-url                      : https://c3-yang-song.github.io # 
+url                      : https://yangsong7.github.io #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yang Song"
   avatar           : "profile1.png"
-  bio              : "Lead Data Scientist | LLM Finetuning &amp; Agentic Systems"
+  bio              : "Staff Machine Learning Engineer | LLM Finetuning &amp; Agentic Systems"
   location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "c3-yang-song"
+  github           : "yangsong7"
   google_plus      :
   keybase          :
   instagram        :

@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I was a <b>Lead Data Scientist</b> at [C3.ai](https://c3.ai/), where I built enterprise AI systems with a main focus on LLM pretraining, finetuning, and autonomous agentic systems.
+* I am currently a <b>Staff Machine Learning Engineer</b> at [PayPal](https://www.paypal.com/).
+
+* Previously, I was a <b>Lead Data Scientist</b> at [C3.ai](https://c3.ai/), where I built enterprise AI systems with a main focus on LLM pretraining, finetuning, and autonomous agentic systems.
 
 * I obtained my PhD from The Hong Kong Polytechnic University, Hong Kong under the supervision of Prof. [Kainam Thomas Wang](https://scholar.google.se/citations?user=kCs2aSQAAAAJ&hl=en). From 2014 - 2016, I was a Postdoc at University Paderborn, Germany, working with Prof. [Peter Schreier](https://sst-group.org/). From 2016 to 2022, I have been working as a Senior Research Fellow with Prof. [Tay Wee Peng](https://personal.ntu.edu.sg/wptay/) at Nanyang Technological University, Singapore.
 
